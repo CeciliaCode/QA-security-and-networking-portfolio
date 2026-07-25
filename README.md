@@ -4,7 +4,7 @@ This repository contains academic artifacts related to software engineering anal
 
 ## Contents
 
-- UML diagrams and system models.
+- System models.
 - BPMN process diagrams.
 - Use-case specifications and requirements.
 - Test cases and quality assurance documentation.
@@ -14,7 +14,7 @@ This repository contains academic artifacts related to software engineering anal
 ## Skills demonstrated
 
 - Requirements analysis.
-- UML and BPMN modeling.
+- BPMN modeling.
 - Use-case and test-case design.
 - Software quality assurance.
 - Risk and security analysis.
